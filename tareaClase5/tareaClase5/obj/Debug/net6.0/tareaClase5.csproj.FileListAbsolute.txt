@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\bin\Debug\net6.0\tareaClase5.exe
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\bin\Debug\net6.0\tareaClase5.deps.json
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\bin\Debug\net6.0\tareaClase5.runtimeconfig.json
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\bin\Debug\net6.0\tareaClase5.dll
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\bin\Debug\net6.0\ref\tareaClase5.dll
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\bin\Debug\net6.0\tareaClase5.pdb
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.dll
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\ref\tareaClase5.dll
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.pdb
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Desktop\.Net\tareaClase5\tareaClase5\obj\Debug\net6.0\tareaClase5.csproj.AssemblyReference.cache
