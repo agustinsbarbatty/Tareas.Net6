@@ -1,0 +1,15 @@
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\bin\Debug\net6.0\tareaClase13.exe
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\bin\Debug\net6.0\tareaClase13.deps.json
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\bin\Debug\net6.0\tareaClase13.runtimeconfig.json
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\bin\Debug\net6.0\tareaClase13.dll
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\bin\Debug\net6.0\tareaClase13.pdb
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.csproj.AssemblyReference.cache
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.AssemblyInfoInputs.cache
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.AssemblyInfo.cs
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.dll
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\refint\tareaClase13.dll
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.pdb
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\tareaClase13.genruntimeconfig.cache
+C:\Users\Toshiba Mamalona\source\repos\tareaClase13\tareaClase13\obj\Debug\net6.0\ref\tareaClase13.dll
